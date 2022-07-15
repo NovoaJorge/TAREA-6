@@ -60,6 +60,8 @@ CAPITULO 	XI
 
 CAPITULO XII
 
+[![Blank-diagram-10.png](https://i.postimg.cc/d1VQz5FS/Blank-diagram-10.png)](https://postimg.cc/mcKG9NtQ)
+
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
