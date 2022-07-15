@@ -18,6 +18,7 @@ NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 OBJETIVOS ESPECIFICOS CAPITULO XI
 
+
 ◆ Identificar una forma de onda sinusoidal y medir sus características
 
   ◆ Describir cómo se generan las ondas seno y las relaciones angulares de una onda seno
