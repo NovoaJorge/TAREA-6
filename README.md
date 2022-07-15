@@ -14,8 +14,7 @@ NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 1.- OBJETIVOS 
 
-Entender que la corriente alterna es el flujo de carga eléctrica que varía en dirección, con cambios en el voltaje y la corriente.
-La corriente directa es un flujo eléctrico que se mantiene constante y no hay cambios en el voltaje.
+Entender que es la forma sinusoidal y analisarlo matematicamente y su medicion de sus características junto con la otra unidad determinaremos la medicion de los capacitores su funcion y su correct uso.
 
 OBJETIVOS ESPECIFICOS CAPITULO XI
 
@@ -36,10 +35,21 @@ OBJETIVOS ESPECIFICOS CAPITULO XI
 
               ◆ Identificar las características de formas de onda no sinusoidales básicas
 
+
+
 OBJETIVOS ESPECIFICOS CAPITULO XII
 
+◆ Describir la construcción y las características básicas de un capacitor
 
-          
+  ◆ Estudiar los diversos tipos de capacitores
+
+    ◆ Analizar capacitores en serie y en paralelo
+
+      ◆ Analizar circuitos de cd con capacitores conmutados y ca capacitivos
+
+        ◆ Examinar algunas aplicaciones de los capacitores
+
+          ◆ Estudiar la operación de circuitos conmutados porun capacitor
 
 2.- MARCO TEORICO 
 
