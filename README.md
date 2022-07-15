@@ -67,16 +67,22 @@ CAPITULO XII
 
 CAP XI
 
-![11_page-0001](https://user-images.githubusercontent.com/105685180/179216982-0866a8da-c27b-443c-af91-2351dc06a3ae.jpg)
-![11_page-0002](https://user-images.githubusercontent.com/105685180/179216986-dce43b97-2797-4085-9e69-9ea4a123b3c4.jpg)
-![11_page-0003](https://user-images.githubusercontent.com/105685180/179216987-003d410e-4c36-4f06-8e41-cbfe831a81e0.jpg)
-![11_page-0004](https://user-images.githubusercontent.com/105685180/179216989-153968b0-73b6-431f-90cb-ce0a814ec4ac.jpg)
-![11_page-0005](https://user-images.githubusercontent.com/105685180/179216992-45c4bdcb-5853-4c44-860c-9f4cc06d3358.jpg)
-![11_page-0006](https://user-images.githubusercontent.com/105685180/179216993-f675ec68-203e-4633-ab67-58c4efa151b1.jpg)
-![11_page-0007](https://user-images.githubusercontent.com/105685180/179216994-499beee7-8666-4ebf-9b68-02b2b0d0d71c.jpg)
-![11_page-0008](https://user-images.githubusercontent.com/105685180/179216996-af4a76aa-2d9f-4fdc-93f7-cf99cfd08dda.jpg)
+![11 r34L_page-0001](https://user-images.githubusercontent.com/105685180/179217741-56b20767-707f-4720-a37a-1b8ebb5f94c1.jpg)
+![11 r34L_page-0002](https://user-images.githubusercontent.com/105685180/179217744-910dc109-7b47-490d-a701-d7e255da66d5.jpg)
+![11 r34L_page-0003](https://user-images.githubusercontent.com/105685180/179217746-bd29f87e-dfda-4dae-b5c8-9f1fe317abb2.jpg)
+![11 r34L_page-0004](https://user-images.githubusercontent.com/105685180/179217749-535ceb34-c901-428f-a707-e063009bbc63.jpg)
+![11 r34L_page-0005](https://user-images.githubusercontent.com/105685180/179217750-89f5e9a4-5b48-46ce-9670-41a5ff9d3020.jpg)
+![11 r34L_page-0006](https://user-images.githubusercontent.com/105685180/179217751-fc02b3fb-1755-410b-abea-9f155698e3e3.jpg)
+![11 r34L_page-0007](https://user-images.githubusercontent.com/105685180/179217754-faa8f8ad-4a85-4135-a4c3-c2cfc209b1b3.jpg)
+![11 r34L_page-0008](https://user-images.githubusercontent.com/105685180/179217756-301e24e2-92af-4f6b-87ff-e669dc4b440a.jpg)
+
 
 CAP XII
+
+![12R34AL_page-0001](https://user-images.githubusercontent.com/105685180/179218178-e2b647d8-192f-49d8-a236-0f2a49cbdea8.jpg)
+![12R34AL_page-0002](https://user-images.githubusercontent.com/105685180/179218181-9681a91d-f69c-4f17-86c0-3496d6c180b6.jpg)
+![12R34AL_page-0003](https://user-images.githubusercontent.com/105685180/179218182-9f555631-ffbe-47ed-bad7-4dd40ff47f1b.jpg)
+
 
 4.- VIDEO
 
