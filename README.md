@@ -68,4 +68,10 @@ De acuerdo al analisis hecho en los capitulos 11 y 12 del libro de Principios de
 
 (N.d.). Retrieved July 14, 2022, from http://file:///C:/Users/user_lapt/Downloads/5%20Principios%20de%20circuitos%20electricos%20Floyd-protegido.pdf
 
+Leskow, E. C. (n.d.). Corriente alterna. Concepto. Retrieved July 15, 2022, from https://concepto.de/corriente-alterna/
+
+(N.d.-b). Ingmecafenix.com. Retrieved July 15, 2022, from https://www.ingmecafenix.com/electronica/el-capacitor/
+
+
+
 
