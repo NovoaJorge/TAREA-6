@@ -16,12 +16,25 @@ NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 
 
-OBJETIVOS ESPECIFICOS CAPITULO VII
+OBJETIVOS ESPECIFICOS CAPITULO XI
 
+◆ Identificar una forma de onda sinusoidal y medir sus características
 
+  ◆ Describir cómo se generan las ondas seno y las relaciones angulares de una onda seno
+  
+    ◆ Determinar los diversos valores de voltaje y corriente de una onda seno
+    
+      ◆ Analizar matemáticamente una forma de onda sinusoidal
+        
+        ◆ Utilizar un fasor para representar una onda seno y un osciloscopio para medir formas de onda
+            
+          ◆ Aplicar las leyes de circuito básicas a circuitos de ca resistivos
+            
+            ◆ Determinar voltajes totales que tienen tanto componentes de ca como de cd
 
+              ◆ Identificar las características de formas de onda no sinusoidales básicas
 
-OBJETIVOS ESPECIFICOS CAPITULO VIII
+OBJETIVOS ESPECIFICOS CAPITULO XII
 
 
           
