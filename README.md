@@ -62,8 +62,10 @@ https://youtu.be/ZOCQ4rK8Xq8
 
 5.- CONCLUSIONES
 
-De acuerdo al analisis hecho en los capitulos 7 y 8 del libro de Principios de circuitos electricos Floyd podemos determinar de una manera propicia el correcto analisis de los circuitos en serie - paralelo de igual manero pudimos entender los diferentes teoremos que nos serviran para los calculos de super pocision entre otros, todo esto aplicando lo conocimientos y leyes adquiridas en las las anteriores unidades de aprendizaje.
+De acuerdo al analisis hecho en los capitulos 11 y 12 del libro de Principios de circuitos electricos Floyd podemos determinar de una manera propicia el correcto analisis LA CORRIENTE Y AL VOLTAJE ALTERNOS y de los capacitores como primer punto determinaremos Se llama corriente alterna (CA) al tipo de corriente eléctrica más empleado domésticamente, caracterizado por oscilar de manera regular y cíclica en su magnitud y sentido de igual manera los capacitores llegamos a la conclucion que Un capacitor o condensador eléctrico es un dispositivo que se utiliza para almacenar energía (carga eléctrica) en un campo eléctrico interno.
 
 6.- BIBLIOGRAFÍA
+
+(N.d.). Retrieved July 14, 2022, from http://file:///C:/Users/user_lapt/Downloads/5%20Principios%20de%20circuitos%20electricos%20Floyd-protegido.pdf
 
 
