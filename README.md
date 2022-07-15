@@ -43,12 +43,12 @@ OBJETIVOS ESPECIFICOS CAPITULO XII
 
 2.- MARCO TEORICO 
 
-CAPITULO 	VII
+CAPITULO 	XI
+
+[![Blank-diagram-9.png](https://i.postimg.cc/FRbk4D9m/Blank-diagram-9.png)](https://postimg.cc/Kkz877ks)
 
 
-
-
-CAPITULO VIII
+CAPITULO XII
 
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
