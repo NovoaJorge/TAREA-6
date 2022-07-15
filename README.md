@@ -65,8 +65,18 @@ CAPITULO XII
 
 3.- EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+CAP XI
 
+![11_page-0001](https://user-images.githubusercontent.com/105685180/179216982-0866a8da-c27b-443c-af91-2351dc06a3ae.jpg)
+![11_page-0002](https://user-images.githubusercontent.com/105685180/179216986-dce43b97-2797-4085-9e69-9ea4a123b3c4.jpg)
+![11_page-0003](https://user-images.githubusercontent.com/105685180/179216987-003d410e-4c36-4f06-8e41-cbfe831a81e0.jpg)
+![11_page-0004](https://user-images.githubusercontent.com/105685180/179216989-153968b0-73b6-431f-90cb-ce0a814ec4ac.jpg)
+![11_page-0005](https://user-images.githubusercontent.com/105685180/179216992-45c4bdcb-5853-4c44-860c-9f4cc06d3358.jpg)
+![11_page-0006](https://user-images.githubusercontent.com/105685180/179216993-f675ec68-203e-4633-ab67-58c4efa151b1.jpg)
+![11_page-0007](https://user-images.githubusercontent.com/105685180/179216994-499beee7-8666-4ebf-9b68-02b2b0d0d71c.jpg)
+![11_page-0008](https://user-images.githubusercontent.com/105685180/179216996-af4a76aa-2d9f-4fdc-93f7-cf99cfd08dda.jpg)
 
+CAP XII
 
 4.- VIDEO
 
