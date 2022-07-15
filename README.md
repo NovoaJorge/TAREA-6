@@ -14,7 +14,8 @@ NOMBRE DEL PROFESOR: ING. DARWIN ALULEMA
 
 1.- OBJETIVOS 
 
-
+Entender que la corriente alterna es el flujo de carga eléctrica que varía en dirección, con cambios en el voltaje y la corriente.
+La corriente directa es un flujo eléctrico que se mantiene constante y no hay cambios en el voltaje.
 
 OBJETIVOS ESPECIFICOS CAPITULO XI
 
